@@ -6,7 +6,6 @@
 
 <script>
 export default {
-  name: "BlogSidebar",
-
+  name: "BlogSidebar"
 };
 </script>
