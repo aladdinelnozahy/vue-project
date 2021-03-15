@@ -9,8 +9,8 @@
 export default {
   data: function() {
     return {
-      pageName: "Home",
-      pageDescription: "This is Home Page"
+      pageName: "Help Us",
+      pageDescription: "This is Help Page"
     };
   },
 
